@@ -19,7 +19,7 @@
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Air_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Follow Me
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1-IbnSQyY7xzC3Troe8MTg)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
