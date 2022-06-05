@@ -4,6 +4,10 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Автоматизация активности ВК. Релиз обновления VK3](https://www.youtube.com/watch?v=gIFD9FMmJNo)
+- [Обновление скрипта VK2](https://www.youtube.com/watch?v=7roAdvQweRw)
+- [От 200 подписчиков в день ВКонтакте](https://www.youtube.com/watch?v=IjOonRfvfyQ)
+- [Скрипт по автоматизации ВК](https://www.youtube.com/watch?v=Pt-1vT5hQrE)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
