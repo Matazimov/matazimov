@@ -12,6 +12,7 @@ Latest Youtube Videos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-MacBook_Air_2017-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-
-
-Follow me
+### Follow Me
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
