@@ -23,7 +23,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-<p align="center">
+<p>
 <a href="https://github.com/matazimov">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matazimov&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matazimov&layout=compact&langs_count=8"/>
