@@ -4,11 +4,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Телеграм бот для накрутки вк VKAutomationBot](https://www.youtube.com/watch?v=WV1y3YGVAbE)
 - [Огонь в душе](https://www.youtube.com/watch?v=KEyVhWi1KNw)
 - [VKHACKER](https://www.youtube.com/watch?v=FmWnMvOD73M)
 - [Автоматизация активности ВК. Релиз обновления VK3](https://www.youtube.com/watch?v=gIFD9FMmJNo)
 - [Обновление скрипта VK2](https://www.youtube.com/watch?v=7roAdvQweRw)
-- [От 200 подписчиков в день ВКонтакте](https://www.youtube.com/watch?v=IjOonRfvfyQ)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
